@@ -1,0 +1,5 @@
+#!./bin/bash
+
+bucket_name = "text_corpus_bucket"
+
+echo $bucket_name
